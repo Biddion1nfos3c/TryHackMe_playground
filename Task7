@@ -13,7 +13,7 @@ When starting a web application test, you'll very likely be provided a few thing
 Answer the questions below
 
 Before leaving the Proxy tab, switch  Intercept to disabled. We'll still see the pages we navigate to in our  history and the target tab, just having Intercept constantly stopping  our requests for this next bit will get old fast.
-https://www.evernote.com/shard/s363/res/fc0b1794-8133-7505-73b7-d0bc9a77db3c
+TryHackMe_playground\BurpSuiteRoom1\7-1.png
 
 
 Navigate to the Target tab in Burp. In our last task, Proxy, we browsed to the website on our target machine (in this case OWASP Juice Shop). Find our target site in this list and right-click on it. Select 'Add to scope'.
